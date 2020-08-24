@@ -1,5 +1,5 @@
  Hi there ,I'm Fidan✋🏻
- ![Remote-Jobs-in-Software-Development-Industry](https://user-images.githubusercontent.com/64769586/91036105-ca3f3e00-e617-11ea-869f-81e46df21741.jpg)
+![5555555555555555555555](https://user-images.githubusercontent.com/64769586/91036756-f4453000-e618-11ea-949f-19f460349aa9.jpg)
 
  
 - 💻 I'm currently working on startup project                                                                            
