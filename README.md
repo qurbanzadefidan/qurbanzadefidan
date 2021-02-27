@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fidan</h1>
 <h3 align="center">A frontend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **startup project**
-
 - 🌱 I’m currently learning **Reactjs**
 
 - 📝 I regularly write articles on [https://medium.com/@fqurbanzade6](https://medium.com/@fqurbanzade6)
